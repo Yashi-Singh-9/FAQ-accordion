@@ -9,6 +9,7 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2C%20Vanilla-yellow)
 ![Accessibility](https://img.shields.io/badge/Accessibility-ARIA%2C%20Semantic%20HTML%20%2F%20Accessible-lightgrey)
 ![Responsive](https://img.shields.io/badge/Responsive-Mobile%20First%2C%20Media%20Queries-yellowgreen)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/273ebcc0-da40-43e9-a8c1-abe0fc4bfd5c/deploy-status)](https://app.netlify.com/sites/faq-accordion-solution-by-yashi/deploys)
 
 ## Table of Contents
 
@@ -43,8 +44,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor]()
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/faq-accordion-oOrUhD8eU3)
+- Live Site URL: [Live](https://faq-accordion-solution-by-yashi.netlify.app/)
 
 ## My Process
 
@@ -81,7 +82,7 @@ For future projects, I aim to:
 
 ## Author
 
-- Frontend Mentor - [@Yashi-Singh-9](https://www.frontendmentor.io/profile/Yashi-Singh-1)
+- Frontend Mentor - [@Yashi-Singh-1](https://www.frontendmentor.io/profile/Yashi-Singh-1)
 - GitLab - [Yashi-Singh-9](https://gitlab.com/Yashi-Singh-9)
 - LinkedIn - [Yashi Singh](https://www.linkedin.com/in/yashi-singh-b4143a246)
 
