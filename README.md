@@ -3,13 +3,14 @@
 This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-FAQ%20Accordion-blue) 
-![GitLab](https://img.shields.io/badge/GitLab-Yashi--Singh--9--faq--accordion-orange)
 ![HTML](https://img.shields.io/badge/HTML-5%2C%20Semantic-brightgreen)
 ![CSS](https://img.shields.io/badge/CSS-3%2C%20Flexbox%2C%20Grid-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2C%20Vanilla-yellow)
 ![Accessibility](https://img.shields.io/badge/Accessibility-ARIA%2C%20Semantic%20HTML%20%2F%20Accessible-lightgrey)
 ![Responsive](https://img.shields.io/badge/Responsive-Mobile%20First%2C%20Media%20Queries-yellowgreen)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/273ebcc0-da40-43e9-a8c1-abe0fc4bfd5c/deploy-status)](https://app.netlify.com/sites/faq-accordion-solution-by-yashi/deploys)
+![GitHub last commit](https://img.shields.io/github/last-commit/Yashi-Singh-9/FAQ-accordion)
+
 
 ## Table of Contents
 
